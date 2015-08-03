@@ -1,9 +1,10 @@
 ---
-layout: projects
 title:  "First project!"
-categories: jekyll test
+date: 3th August 2015
+author: La Linos
 ---
 
 this is a project test
+
 
 

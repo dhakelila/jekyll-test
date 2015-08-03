@@ -15,3 +15,9 @@ github_username:  dhakelila
 # Build settings
 markdown: kramdown
 
+# Collections
+collections:
+  projects_collection:
+    title: title
+    author: author
+    date: date
